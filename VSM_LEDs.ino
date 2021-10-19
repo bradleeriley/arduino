@@ -24,7 +24,7 @@
  * B terminal for relay 4 to pin 5 on Arduino.
  *   Attach pull down resistor.
  *   
- * Brad Riley 5.28.21
+ * Vehemont 5.28.21
  * 
  */
 
